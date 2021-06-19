@@ -1,0 +1,37 @@
+PODS:
+  - CLImageEditor/AllTools (0.2.4):
+    - CLImageEditor/Core
+    - CLImageEditor/EmoticonTool
+    - CLImageEditor/ResizeTool
+    - CLImageEditor/SplashTool
+    - CLImageEditor/StickerTool
+    - CLImageEditor/TextTool
+  - CLImageEditor/Core (0.2.4)
+  - CLImageEditor/EmoticonTool (0.2.4):
+    - CLImageEditor/Core
+  - CLImageEditor/ResizeTool (0.2.4):
+    - CLImageEditor/Core
+  - CLImageEditor/SplashTool (0.2.4):
+    - CLImageEditor/Core
+  - CLImageEditor/StickerTool (0.2.4):
+    - CLImageEditor/Core
+  - CLImageEditor/TextTool (0.2.4):
+    - CLImageEditor/Core
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - CLImageEditor/AllTools
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - CLImageEditor
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  CLImageEditor: dc3e5358f641368da3a76fc1c744a4c2ceb270ad
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: c85f345eaab82b1ce6c1f3bf8bcd291612c955c0
+
+COCOAPODS: 1.9.1
